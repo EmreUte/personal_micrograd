@@ -1,3 +1,5 @@
+import math
+
 class Value:
 
   # General methods relating Value object
